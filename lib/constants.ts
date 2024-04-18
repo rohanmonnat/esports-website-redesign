@@ -1,6 +1,6 @@
 import type { PageLink } from '@/lib/types/link';
 
-export const APIUrl = 'http://localhost:3000/api';
+export const APIUrl = 'https://esports-website-redesign.vercel.app/api';
 export const APIRoutes = {
   events: APIUrl + '/events',
   media: APIUrl + '/media',
