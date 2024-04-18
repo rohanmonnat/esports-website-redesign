@@ -160,7 +160,7 @@ export const db = (): IDB => ({
       description:
         "Here's what you need to know before PEC: Spring kicks off on Friday!",
       date: '03-05-2024',
-      img: 'https://images.unsplash.com/photo-1655802895805-60db735c791b?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+      img: 'https://images.unsplash.com/photo-1564049489314-60d154ff107d?q=80&w=1783&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       href: '/',
     },
     {
